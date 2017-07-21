@@ -138,9 +138,9 @@ textfield('text') - Returns a textfield whose text attribute is equal to 'text'.
 first_textfield.type('text') - Types in the word 'text' in the first textfield within the current screen.
 ```
 
-```
 Buttons
 
+```
 buttons - Returns all the buttons within the current screen.
 
 buttons('text') - Returns all the buttons within the current screen whose text attribute is equal to 'text'.
